@@ -58,7 +58,9 @@ Estos son comandos integrados que puedes usar en Claude Code:
 |---------|-------------|
 | `/cost` | Muestra los costos de uso de la API |
 | `/model` | Muestra el modelo actual en uso |
-| `/tokens` | Muestra estadísticas de uso de tokens |
+| `/compact` | Compacta el historial de conversación |
+| `/memory` | Edita directamente las memorias |
+| `/agents` | Gestiona subagentes en ejecución |
 
 ### Comandos de Utilidad
 
@@ -165,7 +167,7 @@ Pídele a Claude que:
 Responde estas preguntas (¡puedes pedirme ayuda si la necesitas!):
 
 ### Pregunta 1 (Fácil)
-¿Qué comando usarías para ver cuántos tokens has usado en esta sesión?
+¿Qué comando usarías para ver información sobre los costos de uso de la API?
 
 ### Pregunta 2 (Fácil)
 Si quieres empezar de nuevo con una conversación fresca, ¿qué comando usarías?
