@@ -79,7 +79,18 @@
 - Estrategias de depuración
 - Optimización de rendimiento
 - Mejores prácticas
-- **Examen Final**: Proyecto Completo
+- **Examen 10**: Proyecto Completo
+
+### **Capítulo 11: Optimización y Uso Eficiente** (Intermedio-Avanzado)
+- Entender tokens y límites
+- Gestión de contexto y sesiones
+- Estrategias de prompting eficiente
+- Uso óptimo de herramientas
+- Filosofía de código agéntico
+- Costos y optimización
+- Mejores prácticas de aprendizaje
+- Comportamiento para desarrollo efectivo
+- **Examen 11**: Maestría en Optimización
 
 ---
 
@@ -94,6 +105,8 @@ Al final de este curso, serás capaz de:
 - Personalizar estilos de salida
 - Integrar servidores MCP
 - Construir proyectos complejos con Claude Code
+- Optimizar tu uso para máxima eficiencia y mínimo costo
+- Aplicar filosofía de código agéntico en tu desarrollo
 
 ---
 
