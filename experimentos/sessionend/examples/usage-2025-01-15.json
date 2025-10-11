@@ -1,0 +1,42 @@
+{
+  "date": "2025-01-15",
+  "sessions": [
+    {
+      "summary": "Implement SessionEnd hooks for usage tracking and chat archival",
+      "repo": "/home/motoko/dev/learningclaude",
+      "branch": "main",
+      "model": "claude-sonnet-4-5-20250929",
+      "closedAt": "2025-01-15T14:30:22Z",
+      "stats": {
+        "message_count": 24,
+        "input_tokens": 45230,
+        "output_tokens": 18450,
+        "cache_read_tokens": 12000,
+        "cache_creation_tokens": 3200,
+        "cost_usd": 0.4127
+      }
+    },
+    {
+      "summary": "Fix bug in chat archiver gitignore detection",
+      "repo": "/home/motoko/dev/learningclaude",
+      "branch": "main",
+      "model": "claude-sonnet-4-5-20250929",
+      "closedAt": "2025-01-15T18:12:05Z",
+      "stats": {
+        "message_count": 8,
+        "input_tokens": 18500,
+        "output_tokens": 7200,
+        "cache_read_tokens": 5000,
+        "cache_creation_tokens": 800,
+        "cost_usd": 0.1635
+      }
+    }
+  ],
+  "totals": {
+    "message_count": 32,
+    "input_tokens": 63730,
+    "output_tokens": 25650,
+    "cache_read_tokens": 17000,
+    "cost_usd": 0.5762
+  }
+}

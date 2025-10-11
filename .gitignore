@@ -4,3 +4,6 @@ previous conversation/
 # Claude folder
 claude/
 
+
+# SessionEnd chat archives (auto-added)
+previousclaudechat/
