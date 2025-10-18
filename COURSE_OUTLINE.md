@@ -92,6 +92,17 @@
 - Comportamiento para desarrollo efectivo
 - **Examen 11**: Maestría en Optimización
 
+### **Capítulo 12: Extensibilidad Avanzada - Skills y Plugins** (Avanzado) ✨ NUEVO
+- ¿Qué son los Skills y cómo funcionan?
+- Crear Skills personalizados
+- Sistema de Plugins y Marketplaces
+- Instalar y gestionar Plugins
+- Crear tu propio Plugin
+- Code Execution Tool (Beta)
+- Checkpoints y Versionado Automático
+- Integración de features avanzadas
+- **Examen 12**: Proyecto Integrador de Extensibilidad
+
 ---
 
 ## 🎯 Objetivos de Aprendizaje
@@ -107,6 +118,10 @@ Al final de este curso, serás capaz de:
 - Construir proyectos complejos con Claude Code
 - Optimizar tu uso para máxima eficiencia y mínimo costo
 - Aplicar filosofía de código agéntico en tu desarrollo
+- Crear y gestionar Skills personalizados
+- Instalar y publicar Plugins desde marketplaces
+- Usar Code Execution Tool para análisis de datos
+- Trabajar con Checkpoints para versionado automático
 
 ---
 

@@ -6,7 +6,7 @@
 
 Este repositorio contiene un curso completo y práctico que te enseña todo sobre Claude Code:
 
-- **11 Capítulos Completos** desde nivel principiante hasta avanzado
+- **12 Capítulos Completos** desde nivel principiante hasta avanzado
 - **Ejercicios prácticos** en cada capítulo
 - **Exámenes** para poner a prueba tu conocimiento (¡con Claude como tu profesor!)
 - **Ejemplos del mundo real** que puedes probar inmediatamente
@@ -26,6 +26,7 @@ Este repositorio contiene un curso completo y práctico que te enseña todo sobr
 | 9 | Protocolo de Configuración de Modelos (MCP) | Avanzado | 🔒 Bloqueado |
 | 10 | Flujos de Trabajo Avanzados | Avanzado | 🔒 Bloqueado |
 | 11 | Optimización y Uso Eficiente | Intermedio-Avanzado | 🔒 Bloqueado |
+| 12 | Extensibilidad Avanzada - Skills y Plugins ✨ | Avanzado | 🔒 Bloqueado |
 
 ## 🚀 Cómo Empezar
 
