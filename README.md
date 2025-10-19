@@ -27,6 +27,10 @@ Este repositorio contiene un curso completo y práctico que te enseña todo sobr
 | 10 | Flujos de Trabajo Avanzados | Avanzado | 🔒 Bloqueado |
 | 11 | Optimización y Uso Eficiente | Intermedio-Avanzado | 🔒 Bloqueado |
 | 12 | Extensibilidad Avanzada - Skills y Plugins ✨ | Avanzado | 🔒 Bloqueado |
+| 13 | BMAD Method v6 con Claude Code ✨ | Avanzado | 🔒 Bloqueado |
+| 13bis | Otros Métodos y Frameworks para Claude Code ✨ | Avanzado | 🔒 Bloqueado |
+| 14 | Pausa para Reflexionar - Filosofía del Desarrollo Agéntico ✨ | Reflexivo | 🔒 Bloqueado |
+| 15 | Skills - La Pieza Final del Ecosistema ✨ | Avanzado | 🔒 Bloqueado |
 
 ## 🚀 Cómo Empezar
 

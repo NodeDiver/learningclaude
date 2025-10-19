@@ -115,6 +115,63 @@
 - Integración de features avanzadas
 - **Examen 12**: Proyecto Integrador de Extensibilidad
 
+### **Capítulo 13: BMAD Method v6 con Claude Code** (Avanzado) ✨ NUEVO
+- Introducción al BMAD Method v6 y BMAD-CORE
+- Instalación y configuración de BMAD con Claude Code
+- **Fase 1: Analysis** - Agente Analyst, brainstorming, project brief
+- **Fase 2: Planning** - Agente PM, Scale Adaptive Planning, PRD creation
+- **Fase 3: Solutioning** - Agente Architect, adaptive architecture
+- **Fase 4: Implementation** - Ciclo SM → Dev → QA, tech specs, quality gates
+- Agentes BMAD en Claude Code (slash commands, sub-agents, party mode)
+- Flujos de trabajo prácticos (Greenfield, Brownfield, Simple tasks, Game dev)
+- BMad Builder (BMB) - Personalización de agentes y workflows
+- Optimización y mejores prácticas
+- 5 Ejercicios prácticos
+- **Examen 13**: Proyecto Integrador completo con BMAD Method v6
+
+### **Capítulo 13bis: Otros Métodos y Frameworks para Claude Code** (Avanzado) ✨ NUEVO
+- Panorama del ecosistema de frameworks Claude Code en 2025
+- **SuperClaude Framework**: Optimización de tokens (70% reduction), Git checkpoints, 21 comandos
+- **Claude Flow**: Orquestación enterprise, 64 agentes, swarm intelligence, paralelización masiva
+- **IndyDevDan Agentic Engineering**: Autonomía máxima, security hooks, desarrollo indie-friendly
+- **Spec-Driven Development (Pimzino)**: Requirements → Design → Tasks → Implementation
+- **Awesome Claude Code**: Colecciones comunitarias de recursos y workflows
+- Tabla comparativa completa: BMAD vs SuperClaude vs Claude Flow vs IndyDevDan vs otros
+- Análisis de pros/contras de cada framework
+- Guía de selección por tipo de proyecto y experiencia
+- Estrategias de Mix & Match: combinar frameworks
+- Links y recursos de cada sistema
+- **Ejercicio Práctico**: Crear tu "Framework Personal"
+
+### **Capítulo 14: Pausa para Reflexionar - La Filosofía del Desarrollo Agéntico** (Reflexivo) ✨ NUEVO
+- La transformación del developer: de artesano a director de orquesta
+- El conocimiento tácito en peligro
+- La paradoja del aprendizaje: ¿cómo aprender si alguien más hace el trabajo?
+- Sesgos ocultos en los frameworks
+- La ilusión de control en sistemas autónomos
+- Los costos invisibles: cognitivo, ambiental, social, privacidad
+- Democratización vs profesionalización
+- El síndrome del impostor amplificado
+- Creatividad: ¿muerte o liberación?
+- La pregunta existencial: ¿qué hace valiosa nuestra contribución?
+- 10 perspectivas inesperadas sobre el futuro del desarrollo
+- Recomendaciones para navegar el futuro
+- **Sin Examen**: Solo reflexión personal
+
+### **Capítulo 15: Skills - La Pieza Final del Ecosistema** (Avanzado) ✨ NUEVO
+- ¿Qué son Skills? Definición y conceptos fundamentales
+- Progressive disclosure y eficiencia de tokens
+- Cómo crear tu primer Skill (3 métodos)
+- **Comparación definitiva**: Skills vs Slash Commands vs Prompts vs MCP vs Agentes
+- Por qué existen Skills: la visión de Anthropic
+- El marketplace de Skills (anthropics/skills)
+- Integración con MCP, slash commands, agentes y frameworks
+- Ejemplos prácticos: Conventional Commits, Brand Guidelines, Code Review
+- Técnicas avanzadas: scripts ejecutables, templates, Skills encadenados
+- Best practices y errores comunes
+- El futuro de Skills y oportunidades
+- **Examen 15**: Maestría de Skills
+
 ---
 
 ## 🎯 Objetivos de Aprendizaje
@@ -134,6 +191,21 @@ Al final de este curso, serás capaz de:
 - Instalar y publicar Plugins desde marketplaces
 - Usar Code Execution Tool para análisis de datos
 - Trabajar con Checkpoints para versionado automático
+- Ejecutar proyectos completos con BMAD Method v6
+- Usar todos los agentes BMAD especializados
+- Aplicar Scale Adaptive Workflow Engine
+- Personalizar BMAD con BMad Builder (BMB)
+- Comparar y evaluar diferentes frameworks para Claude Code
+- Seleccionar el framework adecuado según tipo de proyecto
+- Combinar elementos de múltiples frameworks (Mix & Match)
+- Conocer el ecosistema completo de herramientas Claude Code 2025
+- Reflexionar críticamente sobre el impacto del desarrollo agéntico
+- Navegar conscientemente la transformación del rol de developer
+- Entender costos ocultos y trade-offs del uso de IA
+- Crear y gestionar Skills personalizados
+- Comparar Skills vs Slash Commands vs MCP vs Agentes
+- Integrar Skills en workflows y frameworks existentes
+- Aprovechar el marketplace de Skills y contribuir a la comunidad
 
 ---
 
