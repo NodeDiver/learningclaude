@@ -19,8 +19,10 @@ Esta carpeta contiene guías detalladas para configurar y usar los MCPs (Model C
 | **9.G** | [Alby MCP](./capitulo_09_mcp_alby.md) | 50 min | Avanzado | ⭐ Especializado |
 | **9.H** | [Discord MCP](./capitulo_09_mcp_discord.md) | 55 min | Intermedio | ⭐⭐ Media-Alta |
 | **9.I** | [Nostr MCP](./capitulo_09_mcp_nostr.md) | 60 min | Intermedio-Avanzado | ⭐⭐ Media-Alta |
+| **9.J** | [Sentry MCP](./capitulo_09_mcp_sentry.md) | 50 min | Intermedio | ⭐⭐⭐ Alta |
+| **9.K** | [Canva MCP](./capitulo_09_mcp_canva.md) | 50 min | Intermedio | ⭐⭐ Media |
 
-**Tiempo total**: ~7 horas
+**Tiempo total**: ~8 horas
 
 ---
 
@@ -195,6 +197,40 @@ Esta carpeta contiene guías detalladas para configurar y usar los MCPs (Model C
 - Bots de contenido y agregadores
 - Integración social para apps web3
 - Monetización de contenido con zaps
+
+---
+
+### 9.J: Sentry MCP ⭐⭐⭐
+**Lo que aprenderás:**
+- Monitoreo de errores con Sentry.io
+- Analizar stacktraces automáticamente
+- Debugging asistido por IA
+- Priorizar bugs por impacto
+- Integrar Sentry en workflow de desarrollo
+
+**Casos de uso:**
+- Debugging de errores de producción
+- Análisis de root cause automático
+- Priorización inteligente de bugs
+- Tracking de releases y regresiones
+- Alertas y notificaciones de errores críticos
+
+---
+
+### 9.K: Canva MCP ⭐⭐
+**Lo que aprenderás:**
+- Desarrollar apps para Canva Platform
+- Usar Canva Apps SDK
+- Crear extensiones de diseño
+- Implementar data connectors
+- Trabajar con Design API de Canva
+
+**Casos de uso:**
+- Crear apps de Canva con IA
+- Importar datos externos a diseños
+- Automatizar generación de designs
+- Extensiones personalizadas para empresas
+- Integraciones con servicios third-party
 
 ---
 

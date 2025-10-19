@@ -72,6 +72,18 @@
 - Usar herramientas MCP
 - Crear integraciones MCP personalizadas
 - **Examen 9**: Proyecto de Integración MCP
+- **📁 Subcapítulos MCPs** (carpeta `capitulo_09_mcps/`):
+  - 9.A: GitHub MCP - Domina GitHub desde Claude Code
+  - 9.B: PostgreSQL MCP - Gestiona Bases de Datos
+  - 9.C: Slack MCP - Automatiza Comunicación de Equipo
+  - 9.D: Azure MCP - Gestiona Cloud de Microsoft
+  - 9.E: Vercel MCP - Deployments Automáticos
+  - 9.F: GCP MCP - Google Cloud Platform
+  - 9.G: Alby MCP - Bitcoin Lightning Wallet
+  - 9.H: Discord MCP - Automatiza Comunidades y Comunicación
+  - 9.I: Nostr MCP - Libertad de Expresión Descentralizada
+  - 9.J: Sentry MCP - Monitoreo de Errores y Debugging Inteligente
+  - 9.K: Canva MCP - Desarrollo Asistido por IA
 
 ### **Capítulo 10: Flujos de Trabajo Avanzados** (Avanzado)
 - Gestión de listas de tareas
